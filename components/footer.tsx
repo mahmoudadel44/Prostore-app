@@ -5,7 +5,7 @@ export default async function Footer() {
     return (
         <footer className="w-full border-t">
         <div className="wrapper flex-center p-5">
-            <span>© {currentYear} {APP_NAME}. All rights reserved.</span>
+            {/* <span>© {currentYear} {APP_NAME}. All rights reserved.</span> */}
         </div>
         </footer>
     );
